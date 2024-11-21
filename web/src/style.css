@@ -1,3 +1,6 @@
 #root{
     background-color: darkolivegreen;
 }
+.react-grid-item{
+    border: 2px solid #000;
+}
